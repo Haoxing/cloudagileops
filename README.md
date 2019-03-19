@@ -18,7 +18,7 @@ $ python manage.py migrate
 $ python manage.py runserver 
 ```
 
-By default, a development server at http://127.0.0.1:8000/ would be launched.
+By default, a development server at http://127.0.0.1:8000/ would be launched. You can use admin/1234abcd to login the demo app.
 
 ## License
 
